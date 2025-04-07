@@ -5,3 +5,4 @@
 
 # panneer masala
 * paneer
+* mysore masala
