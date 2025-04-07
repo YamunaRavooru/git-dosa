@@ -6,3 +6,4 @@
 # panneer masala
 * paneer
 * mysore masala
+* garam masala
