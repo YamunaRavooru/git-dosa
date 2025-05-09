@@ -7,3 +7,6 @@
 ## Karam dosa
 * dosa batter
 * karam and oil
+
+## Egg dosa
+* dosa batter
