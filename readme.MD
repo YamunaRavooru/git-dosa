@@ -17,3 +17,5 @@
 * ghee
 * kaju paste
 * panner
+## karam-ghee dosa
+* dosa batter
