@@ -17,3 +17,4 @@
 * kaju paste
 * panner
 * onion and tamota
+* capsicum
