@@ -11,3 +11,6 @@
 ## Egg dosa
 * dosa batter
 * 2 egg ,karam and oil
+## masala dosa
+* dosa batter
+
