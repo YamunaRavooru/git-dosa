@@ -10,7 +10,8 @@
 
 ## Egg dosa
 * dosa batter
-* 2 egg ,karam and oil
+* 1/2 egg ,karam and oil
+* egg masala
 ## panner dosa
 * dosa batter
 * ghee
